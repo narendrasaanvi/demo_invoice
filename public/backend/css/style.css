@@ -1,0 +1,40 @@
+.dashbord {
+    color: #1d2327 !important;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.3rem 0.5rem;
+}
+
+.layout-navbar-fixed .wrapper .brand-link {
+    background-color: #800080  !important;
+}
+
+.bg-info {
+    background-color: #800080  !important;
+}
+
+.card-primary:not(.card-outline) > .card-header {
+    background-color: #800080  !important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #800080  !important;
+    border-color: #800080  !important;
+    box-shadow: none;
+}
+
+.main-sidebar {
+    background-color: #800080 ;
+}
+
+aside.main-sidebar.sidebar-dark-primary.elevation-4 {
+    background: #800080 ;
+}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #800080 !important;
+    color: #fff;
+}
